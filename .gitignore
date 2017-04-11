@@ -1,5 +1,5 @@
 # ignore .pdf files
-*.pdf
+TeX_Document/*.pdf
 
 # ignore .gz files
-*.gz
+TeX_Document/*.gz
