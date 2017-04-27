@@ -3,3 +3,7 @@ TeX_Document/*.pdf
 
 # ignore .gz files
 TeX_Document/*.gz
+
+TeX_Document/**/*.aux
+TeX_Document/**/*.log
+TeX_Document/**/*.out
